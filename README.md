@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋 Welcome to my profile
 
 <!--
 **zhsh9/zhsh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![badge_1](https://komarev.com/ghpvc/?username=zhsh9&style=for-the-badge)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhsh9&title=MultiLanguage,Repositories,Followers,Commits,Stars&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
