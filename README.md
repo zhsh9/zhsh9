@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 </div>
 
-### 🚀 Contributed Projects
+### 🚀 Projects
 
 | Project | Description |
 |:----|:----|
 |[![GitHub stars](https://img.shields.io/github/stars/zhangsq-nju/TernaryCLIP.svg)](https://github.com/zhangsq-nju/TernaryCLIP)|[**TernaryCLIP**](https://github.com/zhangsq-nju/TernaryCLIP) - A project for ternary quantization of CLIP models.|
+|[![GitHub stars](https://img.shields.io/github/stars/zhangsq-nju/EdgeRazor.svg)](https://github.com/zhangsq-nju/EdgeRazor)|[**EdgeRazor**](https://github.com/zhangsq-nju/EdgeRazor) - A lightweight framework for edge AI.|
