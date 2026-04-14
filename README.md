@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zhsh9&style=flat-square&color=red)
 [![GitHub followers](https://img.shields.io/github/followers/zhsh9?label=Followers&style=flat-square&color=success&logo=github)](https://github.com/zhsh9?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/zhsh9?label=Total%20Stars&style=flat-square&color=yellow&logo=github)](https://github.com/zhsh9?tab=repositories)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zhsh9/zhsh9?style=flat-square&color=orange&logo=github)
 
 </div>
