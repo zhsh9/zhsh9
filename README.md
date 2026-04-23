@@ -14,6 +14,8 @@
 
 ### 🚀 Projects
 
+✨ If you like these projects, please consider giving a star ⭐️ for the latest update.
+
 | Project                                                                                                                        | Description                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
 | [![GitHub stars](https://img.shields.io/github/stars/zhangsq-nju/TernaryCLIP?style=plastic&logo=github)](https://github.com/zhangsq-nju/TernaryCLIP) | [**TernaryCLIP**](https://github.com/zhangsq-nju/TernaryCLIP) - A project for ternary quantization of CLIP models. |
