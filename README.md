@@ -20,6 +20,7 @@
 | :----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
 | [![GitHub stars](https://img.shields.io/github/stars/zhangsq-nju/TernaryCLIP?style=plastic&logo=github)](https://github.com/zhangsq-nju/TernaryCLIP) | [**TernaryCLIP**](https://github.com/zhangsq-nju/TernaryCLIP) - A project for ternary quantization of CLIP models. |
 | [![GitHub stars](https://img.shields.io/github/stars/zhangsq-nju/EdgeRazor?style=plastic&logo=github)](https://github.com/zhangsq-nju/EdgeRazor)     | [**EdgeRazor**](https://github.com/zhangsq-nju/EdgeRazor) - A lightweight framework for edge AI.                   |
+| [![GitHub stars](https://img.shields.io/github/stars/zhsh9/nano-code?style=plastic&logo=github)](https://github.com/zhsh9/nano-code)     | [**nano-code**](https://github.com/zhsh9/nano-code) - A lightweight AI coding agent.                   |
 
 ### :octocat: GitHub Contributions
 
